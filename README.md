@@ -1,4 +1,5 @@
 # Global Bus & Train Navigator 🚍🚆🌍
+> Turning AI plans into real-world transportation actions.
 
 **Global Bus & Train Navigator** is an AI-powered ground transportation agent  
 that helps users **actually complete travel actions**, not just plan routes.
@@ -117,7 +118,7 @@ This project works best **inside platforms**, not as a standalone consumer app.
 
 ## 🏗️ Project Status
 
-- ✅ Architecture defined
+- ✅ Architecture defined (2026 Q1)
 - ✅ Link Pack v1.x (50+ countries)
 - ✅ Agent integration design completed
 - 🔄 Live pilots & platform integrations in progress
